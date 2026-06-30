@@ -1,2 +1,4 @@
 # jsProject1
- First Javascript Project
+
+First Javascript Project
+Testing git pages deployment
